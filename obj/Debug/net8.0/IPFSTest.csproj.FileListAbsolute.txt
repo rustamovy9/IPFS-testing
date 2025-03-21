@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\bin\Debug\net8.0\IPFSTest.exe
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\bin\Debug\net8.0\IPFSTest.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\bin\Debug\net8.0\IPFSTest.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\bin\Debug\net8.0\IPFSTest.dll
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\bin\Debug\net8.0\IPFSTest.pdb
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.dll
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\refint\IPFSTest.dll
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.pdb
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\IPFSTest.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\IPFSTest\obj\Debug\net8.0\ref\IPFSTest.dll
