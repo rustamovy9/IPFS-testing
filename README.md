@@ -93,5 +93,6 @@ ipfs cat <CID>
 Решение:
 
 Попробуйте другой шлюз или локальный узел.
-Полезные ссылки
+```
+#Полезные ссылки
 [https://richardschneider.github.io/net-ipfs-http-client/articles/intro.html]
