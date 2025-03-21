@@ -92,7 +92,4 @@ GatewayTimeout
 Попробуйте другой шлюз или локальный узел
 
 🔗 Полезные ссылки
-
-IPFS Docs
-
-IPFS API
+[https://richardschneider.github.io/net-ipfs-http-client/articles/intro.html]
